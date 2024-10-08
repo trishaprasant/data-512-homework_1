@@ -31,6 +31,8 @@ The code generates the following files:
 
 ### Data Schema
 
+The generated JSON files with mobile and desktop page views have the following schema:
+
 | Column    | Type | Interpretation |
 | -------- | ------- | ------- |
 | **`article`**  | string | The rare disease article title.
